@@ -3,4 +3,4 @@
 # The -T option ensures that we copy the contents of source into directory, not directory source itself.
 
 
-cp -uaT $SOURCE $DESTINATION
+cp -vuaT $SOURCE $DESTINATION
